@@ -1,0 +1,32 @@
+.star-rating {
+  line-height:32px;
+  font-size:1.25em;
+}
+
+.star-rating .fa-star{color: yellow;}
+.metal{
+  border:1px solid transparent;
+  border-radius:10px;
+  background:-webkit-linear-gradient(top,  #50BFE6 30%,	#0A7E8C 100%);
+  padding:6px 12px;
+  font-size:14px;
+  color:white;
+  border:#0A7E8C;1px solid transparent;border-radius:3px;
+  cursor:pointer;
+  }
+  .metal:hover{
+  border:1px solid transparent;
+  border-radius:10px;
+  background:-webkit-linear-gradient(top,  #50BFE6 10%,#5DA493 90%);
+  padding:6px 12px;
+  font-size:14px;
+  color:white;
+  border:#0A7E8C;1px solid transparent;border-radius:3px;
+  cursor:pointer;
+  }
+  input:hover{
+  outline-color:white;
+  }
+  .backgr{
+background-image: linear-gradient(rgba(255,255,255,0.97), rgba(255,255,255,0.97)), url("../oxford.jpg");
+  }
